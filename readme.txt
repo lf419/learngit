@@ -4,4 +4,8 @@ I love Git.
 I love you.
 Git tracks changes of files.
 Creating a new branch is quick.
+<<<<<<< HEAD
 Creating --no-ff
+=======
+Creating a dev branch.
+>>>>>>> dev
